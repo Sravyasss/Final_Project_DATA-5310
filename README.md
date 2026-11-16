@@ -1,10 +1,10 @@
-# Washington State EV Analysis
+# Electric Vehicle Adoption and Charging Infrastructure in Washington State
 
 Is Washington's public charging network keeping pace with EV growth, and how are income and rurality associated with where the gaps are largest?
 
 **Live page:** https://sravyasss.github.io/Washington-State-EV-Analysis/
 
-## What is in this repo
+## Repo contents
 - `index.html` consists of Homework 8 notebook that inlcudes (data sources, cleaning, exploration, and visualization brainstorm)
 - `WA_EV_Project.zip` contains the datasets that we used for this project
 
